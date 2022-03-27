@@ -1,0 +1,5 @@
+<app-filter (emitSelectedFilter)="receiveCategory($event)" (emitSearchByInput)="receiveNote($event)"></app-filter>
+
+<app-tools></app-tools>
+<app-note [selectedCategory]="category" [selectedNote]="termSearch"></app-note>
+

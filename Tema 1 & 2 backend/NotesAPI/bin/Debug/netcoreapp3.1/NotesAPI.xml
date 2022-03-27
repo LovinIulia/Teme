@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NotesAPI</name>
+    </assembly>
+    <members>
+        <member name="M:NotesAPI.Controllers.CategoriesController.GetAll">
+            <summary>
+            Get all categories.
+            </summary>
+            <returns>categories</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.CategoriesController.GetOne(System.String)">
+            <summary>
+            Get one category.
+            </summary>
+            <response code="200">Success getting one category from the list.</response>
+            <response code="404">Getting the category failed because of invalid id.</response>
+            <returns>Returns one category from the list</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.CategoriesController.Post(NotesAPI.Category)">
+            <summary>
+            Add a new category.
+            </summary>
+            <response code="200">Success adding category in list.</response>
+            <response code="403">Getting the category in the list failed because of duplicated category.</response>
+            <returns>200 Ok successful</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.CategoriesController.Delete(System.String)">
+            <summary>
+            Delete one category.
+            </summary>
+            <response code="200">Success deleting category in list.</response>
+            <response code="404">Deleting the category failed because the category was not found</response>
+            <returns>200 Ok successful</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.NotesController.Get">
+            <summary>
+            Get all notes.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.WeatherForecastController.Get">
+            <summary>
+            Get temperature and summary of the weather on a specific date.
+            </summary>
+            <returns>
+            Date, TemperatureC, TemperatureF and Summary
+            </returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+<div class="filter-container">
+    <div class="filter-div" *ngFor="let category of categories">
+        <button mat-raised-button color="primary" (click)="selectFilter(category.id)"
+        >{{category.name | uppercase}}</button>
+        </div>        
+</div>
+<input #yourInput type="text" (keyup.enter)="selectNote(yourInput.value)" placeholder="Search"> 

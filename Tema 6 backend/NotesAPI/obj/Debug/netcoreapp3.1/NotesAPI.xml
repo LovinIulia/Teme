@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NotesAPI</name>
+    </assembly>
+    <members>
+        <member name="M:NotesAPI.Controllers.CategoriesController.GetAll">
+            <summary>
+            Get all categories.
+            </summary>
+            <returns>categories</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.CategoriesController.GetOne(System.String)">
+            <summary>
+            Get one category.
+            </summary>
+            <response code="200">Success getting one category from the list.</response>
+            <response code="404">Getting the category failed because of invalid id.</response>
+            <returns>Returns one category from the list</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.CategoriesController.Post(NotesAPI.Category)">
+            <summary>
+            Add a new category.
+            </summary>
+            <response code="200">Success adding category in list.</response>
+            <response code="403">Getting the category in the list failed because of duplicated category.</response>
+            <returns>200 Ok successful</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.CategoriesController.Delete(System.String)">
+            <summary>
+            Delete one category.
+            </summary>
+            <response code="200">Success deleting category in list.</response>
+            <response code="404">Deleting the category failed because the category was not found</response>
+            <returns>200 Ok successful</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.NotesController.GetNotes">
+            <summary>
+            Get all notes.
+            </summary>
+        </member>
+        <member name="M:NotesAPI.Controllers.NotesController.CreateNote(NotesAPI.Models.Note)">
+            <summary>
+            Add a new note.
+            </summary>
+            <response code="200">Success creating one note.</response>
+            <response code="201">Success getting location header in post response.</response>
+        </member>
+        <member name="M:NotesAPI.Controllers.NotesController.GetNoteByOwnerId(System.Guid)">
+            <summary>
+            Get one note by OwnerId.
+            </summary>
+            <response code="200">Success getting one note from the list.</response>
+            <response code="404">Getting the note failed because of invalid id.</response>
+            <returns>Returns one note from the list</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.NotesController.GetNoteById(System.Guid)">
+            <summary>
+            Get one note by NoteId.
+            </summary>
+            <response code="200">Success getting one note from the list.</response>
+            <response code="404">Getting the note failed because of invalid id.</response>
+            <returns>Returns one note from the list</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.NotesController.UpdateNoteById(System.Guid,NotesAPI.Models.Note)">
+            <summary>
+            Update note by NoteId.
+            </summary>
+            <response code="200">Success updating note.</response>
+            <response code="404">Updating the note failed because of invalid id.</response>
+            <returns>Updated note</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.NotesController.DeleteNote(System.Guid)">
+            <summary>
+            Delete note by NoteId.
+            </summary>
+            <response code="200">Success deleting note.</response>
+            <response code="404">Deleting the note failed because of invalid id.</response>
+            <returns>Ok. The note was deleted</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.OwnerController.GetAll">
+            <summary>
+            Get all owners.
+            </summary>
+            <response code="200">Success getting the list of owners.</response>
+            <returns>Returns the list of owners</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.OwnerController.Post(System.String)">
+            <summary>
+            Add a new owner.
+            </summary>
+            <response code="200">Success adding owner in list.</response>
+            <response code="403">Getting the owner in the list failed because of duplicated owner.</response>
+            <returns>The new owner's id.</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.OwnerController.UpdateOwner(System.Guid,NotesAPI.Models.Owner)">
+            <summary>
+            Update owner.
+            </summary>
+            <response code="200">Success updating owner in list.</response>
+            <response code="404">Updating owner failed because the id wasn't found.</response>
+            <returns>Updated owner.</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.OwnerController.DeleteOwner(System.Guid)">
+            <summary>
+            Delete owner.
+            </summary>
+            <response code="200">Success deleting owner in list.</response>
+            <response code="404">Deleting owner failed because he doesn't exist in the list.</response>
+            <returns>The owner was deleted.</returns>
+        </member>
+        <member name="M:NotesAPI.Controllers.WeatherForecastController.Get">
+            <summary>
+            Get temperature and summary of the weather on a specific date.
+            </summary>
+            <returns>
+            Date, TemperatureC, TemperatureF and Summary
+            </returns>
+        </member>
+    </members>
+</doc>

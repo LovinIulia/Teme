@@ -1,0 +1,61 @@
+:root {
+  --widthValue: 200px;
+  --colorValue: rgba(255, 192, 71, 0.5);
+}
+
+body{background-color: rgba(255, 192, 71, 0.5);
+}
+h1   {color: rgba(28, 39, 255, 0.5);}
+
+#firstname{
+	background-color: var(--colorValue);
+	width: var(--widthValue);
+}
+
+#lastname{
+	background-color: var(--colorValue);
+	width: var(--widthValue);
+}
+
+#age{
+	background-color:  var(--colorValue);
+	width: var(--widthValue);
+}
+
+#city{
+	background-color:  var(--colorValue);
+	width: var(--widthValue);
+}
+
+textarea{
+	background-color:  var(--colorValue);
+	width: var(--widthValue);
+}
+
+.button1{
+  background-color: rgba(28, 0, 255, 0.6); 
+  border: 1px solid black;
+  color: black;
+  padding: 9px;
+  text-align: center;
+  font-size: 14px;
+  margin: 2px 1px;
+  cursor: pointer;
+  border-radius: 12px;
+  width: 80px;
+}
+
+.button2 {
+  background-color: rgba(28, 0, 255, 0.6); 
+  border: 1px solid black;
+  color: black;
+  padding: 9px;
+  text-align: center;
+  font-size: 14px;
+  margin: 2px 1px;
+  cursor: pointer;
+  border-radius: 12px;
+  width: 80px;
+  position: fixed;
+  left: 8%;
+}

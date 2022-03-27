@@ -1,0 +1,12 @@
+.add-note-card {
+       max-width: 200px;
+       min-height: 300px;
+          flex: 1;
+          flex-direction: row;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: aquamarine;
+          float: right;
+          right: 10%;
+    }

@@ -1,0 +1,4 @@
+<p>Students:</p>
+<div *ngFor="let element of array; let i=index">
+    <p [appChangeColor]="color" *ngIf ="(i % 2)===0">{{element | uppercase | addHyphen}}</p>
+</div>

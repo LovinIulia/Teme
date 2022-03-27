@@ -1,0 +1,132 @@
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.exe
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.deps.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.runtimeconfig.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.runtimeconfig.dev.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.pdb
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.xml
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.AssemblyInfoInputs.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.AssemblyInfo.cs
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\staticwebassets\NotesAPI.StaticWebAssets.Manifest.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\staticwebassets\NotesAPI.StaticWebAssets.xml
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\NotesAPI.styles.css
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.xml
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.pdb
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.genruntimeconfig.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.csproj.AssemblyReference.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.AssemblyInfoInputs.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.AssemblyInfo.cs
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.xml
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.pdb
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.exe
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.deps.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.runtimeconfig.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.runtimeconfig.dev.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.pdb
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.xml
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\staticwebassets\NotesAPI.StaticWebAssets.Manifest.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\staticwebassets\NotesAPI.StaticWebAssets.xml
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\NotesAPI.styles.css
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 3 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.genruntimeconfig.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.csproj.AssemblyReference.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\NotesAPI\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.exe
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.deps.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.runtimeconfig.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.runtimeconfig.dev.json
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.pdb
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\NotesAPI.xml
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\linux\native\libsnappy64.so
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\linux\native\libzstd.so
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\osx\native\libsnappy64.dylib
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\osx\native\libzstd.dylib
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.csproj.AssemblyReference.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.AssemblyInfoInputs.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.AssemblyInfo.cs
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\staticwebassets\NotesAPI.StaticWebAssets.Manifest.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\staticwebassets\NotesAPI.StaticWebAssets.xml
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\NotesAPI.styles.css
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.dll
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.xml
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.pdb
+C:\Users\Iulia Lovin\Desktop\Trimble scholarship\Tema 7 backend\NotesAPI\obj\Debug\netcoreapp3.1\NotesAPI.genruntimeconfig.cache

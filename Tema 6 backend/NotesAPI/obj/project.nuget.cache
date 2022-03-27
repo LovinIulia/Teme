@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jp10dFwakN25Gf7MFuZTa1DKfP1GnkR3tvn/bXEwzp4BB9kSPWRmXu2m17nG9/cS+CDfmpEExdOBNLIMq1JpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulia Lovin\\Desktop\\Trimble scholarship\\Tema 6 backend\\NotesAPI\\NotesAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulia Lovin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Iulia Lovin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Iulia Lovin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "C:\\Users\\Iulia Lovin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\Iulia Lovin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\Iulia Lovin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,66 @@
+<h1>Add a note </h1>
+<label>Title</label>
+<form>
+    <mat-form-field>
+    <input
+        required minlength="4"
+        matInput
+        name="inputNoteTitle"
+        id="inputNoteTitle"
+        [(ngModel)]="title"
+        #inputNoteTitle="ngModel"
+        placeholder="Enter the title"
+    />
+
+    <div *ngIf="inputNoteTitle.invalid && (inputNoteTitle.dirty || inputNoteTitle.touched)"
+    class="alert">
+
+        <div *ngIf="inputNoteTitle.errors?.['required']">
+            Title is required.
+        </div>
+        <div *ngIf="inputNoteTitle.errors?.['minlength']">
+            Title must be at least 4 characters long.
+        </div>
+    </div>
+    
+    </mat-form-field>
+    <br>
+    <label>Description</label>
+    </form>
+    <mat-form-field>
+        <textarea 
+            required minlength="10"
+            matInput  
+            name="inputNoteDescription" 
+            [(ngModel)]="description"
+            #inputNoteDescription="ngModel"
+            placeholder="Enter your description"></textarea>
+
+        <div *ngIf="inputNoteDescription.invalid && (inputNoteDescription.dirty || inputNoteDescription.touched)"
+            class="alert">
+            <div *ngIf="inputNoteDescription.errors?.['required']">
+                Description is required.
+            </div>
+            <div *ngIf="inputNoteDescription.errors?.['minlength']">
+                Description must be at least 10 characters long.
+            </div>
+        </div>
+    </mat-form-field>
+    <br>
+    <label>Status</label>
+    <br>
+    <mat-form-field>
+        <mat-select
+            [(ngModel)]="selectedCategory"
+            name="noteCategory"
+            placeholder="Choose status"> 
+            <mat-option *ngFor="let category of categories" [value]="category.id">
+                {{category.name}}
+            </mat-option>
+        </mat-select>
+    </mat-form-field>
+
+
+<button mat-button routerLink="notes" (click)="addNote(inputNoteTitle.value, inputNoteDescription.value, selectedCategory)">Add</button>
+
+  

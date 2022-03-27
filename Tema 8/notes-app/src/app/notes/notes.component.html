@@ -1,0 +1,20 @@
+<div class="note-container">
+    <div class="note-div" *ngFor="let note of notes">
+        <mat-card class="card">
+            <mat-card-content>
+                {{note.category}}
+            </mat-card-content>
+
+            <mat-card-header>
+                {{note.title}}
+            </mat-card-header>
+  
+            <mat-card-content>
+                {{note.description}}
+            </mat-card-content>
+        </mat-card>
+    </div>
+    <mat-card class="addcard" routerLink="add-note">
+        <button mat-icon-button><mat-icon>add</mat-icon></button>
+    </mat-card>
+</div>

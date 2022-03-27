@@ -1,0 +1,20 @@
+<app-filter></app-filter>
+<p [style.color]='titleColor'>This is a {{title}}</p>
+<p> Text is: {{noteContent}}</p>
+<input type="text" [(ngModel)]= "noteContent"/>
+
+<p>tools works!</p>
+
+<button mat-icon-button (click) ='setTitle()'> <mat-icon>add</mat-icon></button>
+<mat-form-field>
+    <input matInput placeholder="Add Note" >
+</mat-form-field>
+
+<mat-card class="add-note-card" routerLink="add-note">
+    <button mat-icon-button><mat-icon>add</mat-icon></button>
+ </mat-card>
+ 
+ 
+
+
+
